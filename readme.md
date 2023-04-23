@@ -1,6 +1,6 @@
 ## Hi I'm Sreeja <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Sreeja Atluri, Currently pursuing Master's in Computer Science at Arizona State University, Arizona, United States.I am open to work.Looking for a Full Stack Web Developer Roles.
+I'm Sreeja Atluri.Actively looking for Summer-2023 Internship Opportunities| CS Grad Student@Arizona State University | C++| Python | Java| SQL | Ex-TCSer
 
 :mailbox: Reach me out!
 
