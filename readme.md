@@ -8,12 +8,11 @@ I'm Sreeja Atluri.Actively looking for Summer-2023 Internship Opportunities| CS 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit" & Hello World`
-- 🤔 I’m looking for Summer 2023 Internship Opportunities.
+- 👩‍🎓I’m currently pursuing Master's in Computer Science at Arizona State University.
+- :computer: Most used line of code `git commit -m "Initial Commit" & Hello World😄`
+- ❕ I’m looking for Summer 2023 Internship Opportunities.
 - 📫 How to reach me: sreejaatluri06@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: In my spare time, I love to experiment with new technologies and frameworks.
 
 #### Top Technologies
 
@@ -50,7 +49,7 @@ I'm Sreeja Atluri.Actively looking for Summer-2023 Internship Opportunities| CS 
 <br />
 <br /> -->
 
-#### Bizness
+#### References
 
 - :paperclip: [My Resume](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/resume_s.pdf)
 - CV:[My CV](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/cv.pdf)
