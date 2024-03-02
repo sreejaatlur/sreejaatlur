@@ -24,7 +24,7 @@ I'm Sreeja Atluri.Actively looking for Summer-2024 Internship/Full-time Opportun
 
 #### References
 
-- :paperclip: [My Resume](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/atluri-sreeja.pdf)
+- :paperclip: [My Resume](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/atluri_sreeja.pdf)
 - CV:[My CV](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/cv.pdf)
 - Research Paper:[Research Paper](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/research%20paper.pdf)
 
