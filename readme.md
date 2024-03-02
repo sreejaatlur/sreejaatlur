@@ -1,6 +1,6 @@
 ## Hi I'm Sreeja <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Sreeja Atluri.Actively looking for Summer-2024 Internship/Full-time Opportunities| CS Grad Student@Arizona State University | C++| Python | Java| SQL | Ex-TCSer
+I'm Sreeja Atluri.Actively looking for Summer-2024 Internship/Full-time Opportunities| CS Grad Student@Arizona State University 
 
 :mailbox: Reach me out!
 
@@ -24,7 +24,7 @@ I'm Sreeja Atluri.Actively looking for Summer-2024 Internship/Full-time Opportun
 
 #### References
 
-- :paperclip: [My Resume](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/atluri-sreeja.pdf)
+- :paperclip: [My Resume](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/atluri_sreeja.pdf)
 - CV:[My CV](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/cv.pdf)
 - Research Paper:[Research Paper](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/research%20paper.pdf)
 
@@ -47,6 +47,7 @@ When I'm not working on a project, you can usually find me reading about the lat
 - Data Structures and Algorithms
 - Operating Systems
 - Semantic Web Mining
+- Software Verification,Validation and Testing
 - Data Visualization
 - Database Management Systems
 - Cloud Computing
