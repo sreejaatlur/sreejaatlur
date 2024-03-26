@@ -17,15 +17,17 @@ I'm Sreeja Atluri.Actively looking for Summer-2024 Internship/Full-time Opportun
 #### Top Technologies and Programming Languages
 
 <!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)](#)[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)](#)[![SQL Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)](#)[![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=FFFFFF)](#)[![Html Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
-
-
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)](#)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)](#)[![SQL Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)](#)[![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=FFFFFF)](#)[![Html Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)[![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)[![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![.NET Badge](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](#)
 
 #### References
 
-- :paperclip: [My Resume](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/atluri_sreeja.pdf)
-- CV:[My CV](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/cv.pdf)
+<!-- - :paperclip: [My Resume](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/atluri_sreeja.pdf)
+- CV:[My CV](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/cv.pdf) -->
 - Research Paper:[Research Paper](https://github.com/sreejaatlur/sreejaatlur/blob/master/resume/research%20paper.pdf)
 
 <details>
